@@ -1,9 +1,8 @@
 #!/bin/bash
 #
 # File: 	maildir-sa-learner.sh
-# Description:	This script learns spam/ham from Maildir folders.
-#		sa-ham/ maildir folder and put it trough spamassasins
-#		sa-ham or sa-learn binary.
+# Description:	This script will help you to manage your spam e-mails. It is
+#		executed periodically and learn your spam or non-spam e-mails.
 #
 # Author:	Marco Balmer <marco@balmer.name>
 # License:	This program is free software; you can redistribute it and/
