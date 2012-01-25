@@ -3,6 +3,7 @@
 # File: 	maildir-sa-learner.sh
 # Description:	This script will help you to manage your spam e-mails. It is
 #		executed periodically and learn your spam or non-spam e-mails.
+#		It works only with maildir/ folders.
 #
 # Author:	Marco Balmer <marco@balmer.name>
 # License:	This program is free software; you can redistribute it and/
